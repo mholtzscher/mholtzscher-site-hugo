@@ -17,7 +17,6 @@ googleAnalytics = "UA-75497945-1"
     headline = "Learning Everyday"
     github = "https://github.com/mholtzscher"
     linkedin = "https://www.linkedin.com/in/michael-holtzscher-813a79117/"
-    twitter = "https://twitter.com/mholtzscher"
     email = "mholtz@protonmail.com"
     dateFormat = "Mon, Jan 2, 2006"
 
