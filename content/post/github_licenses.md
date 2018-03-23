@@ -40,10 +40,5 @@ ax.set_title('Distribution of GitHub Licenses')
 
 
 
-    Text(0.5,1,'Distribution of GitHub Licenses')
-
-
-
-
 ![png](/github/licenses.png)
 
