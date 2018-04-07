@@ -104,4 +104,4 @@ fig
 
 ---
 
-The Jupyter Notebook for this work can be found on [GitHub](https://github.com/mholtzscher/chicago-crime-analysis)
+The Jupyter Notebook for this work can be found on [GitHub](https://github.com/mholtzscher/eda-notebooks/blob/master/chicago-crime/chicago_homicides.ipynb)

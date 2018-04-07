@@ -88,4 +88,4 @@ r.iplot(kind='bar', barmode='stack', filename='2016-fec-contribution-size-compar
 
 
 ---
-The Jupyter Notebook for this work can be found on [GitHub](https://github.com/mholtzscher/2016_fec_presidential/blob/master/2016_presidential_contributions-bins.ipynb).
+The Jupyter Notebook for this work can be found on [GitHub](https://github.com/mholtzscher/eda-notebooks/blob/master/2016-presidential-election/2016_presidential_contributions-bins.ipynb).

@@ -168,4 +168,4 @@ py.iplot( fig, filename='2016-election-republican-map' )
 
 
 ---
-The Jupyter Notebook for this work can be found on [GitHub](https://github.com/mholtzscher/2016_fec_presidential/blob/master/2016_presidential_contributions-map.ipynb).
+The Jupyter Notebook for this work can be found on [GitHub](https://github.com/mholtzscher/eda-notebooks/blob/master/2016-presidential-election/2016_presidential_contributions-map.ipynb).

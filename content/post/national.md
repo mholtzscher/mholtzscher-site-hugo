@@ -292,4 +292,4 @@ axis.set_title('Babies Named Michael By Year', fontsize=30)
 
 ---
 
-The Jupyter Notebook for this work can be found on [GitHub](https://github.com/mholtzscher/baby-names-analysis/blob/master/national.ipynb).
+The Jupyter Notebook for this work can be found on [GitHub](https://github.com/mholtzscher/eda-notebooks/blob/master/baby-names/national.ipynb).

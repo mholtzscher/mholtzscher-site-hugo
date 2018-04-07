@@ -223,4 +223,4 @@ state_ammt.iplot(kind='bar', filename='fec-2016-state-contributions-ammount')
 
 
 ---
-The Jupyter Notebook for this work can be found on [GitHub](https://github.com/mholtzscher/2016_fec_presidential/blob/master/2016_presidential_contributions.ipynb).
+The Jupyter Notebook for this work can be found on [GitHub](https://github.com/mholtzscher/eda-notebooks/blob/master/2016-presidential-election/2016_presidential_contributions.ipynb).
