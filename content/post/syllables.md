@@ -53,7 +53,7 @@ These methods are very effective if you're a human but incredibly complex to imp
 
 ### Maybe Someone Has Already Done This?
 
-I started my search by looking for a list of words and their syllable counts hoping someone had compiled a database for me. The closest thing I found was the [CMU Pronouncing Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict). However, this database shows the phenomes for the words rather than syllables. In some cases the phenomes align with syllables but this is not always the case. I then moved on to looking for an algorithm to programmatically count syllables and had mixed luck. I found a few very primitive implementations on StackOverflow but most were missing handling for many of English's edge cases.  
+I started my search by looking for a list of words and their syllable counts hoping someone had compiled a database for me. The closest thing I found was the [CMU Pronouncing Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict). However, this database shows the phonemes for the words rather than syllables. In some cases the phonemes align with syllables but this is not always the case. I then moved on to looking for an algorithm to programmatically count syllables and had mixed luck. I found a few very primitive implementations on StackOverflow but most were missing handling for many of English's edge cases.  
 
 ### Syllapy
 
